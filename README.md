@@ -23,7 +23,7 @@ A Laravel application that displays random Kanye West quotes using the Kanye RES
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/Valere3162/laravel-livewire-coding-test.git
 
 ## Tests
 
